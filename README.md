@@ -42,7 +42,3 @@ Pixel Recall is a memory game built using an Arduino Nano. The player watches a 
 | Buzzer | A2 |
 | OLED SDA | A4 |
 | OLED SCL | A5 |
-
-## Author
-
-Created by RB-Coder1.
